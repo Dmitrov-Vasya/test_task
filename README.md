@@ -3,8 +3,7 @@
     poetry install
     ```
 
-2.  Установите API ключ:
-    Создайте создайте учетную запись `https://dashboard.sightengine.com/` и получите там `api_user` и `api_secret` и подставьте их в скрпит
+2.  Создайте учетную запись `https://dashboard.sightengine.com/` и получите там `api_user` и `api_secret` и подставьте их в скрпит
     ```
 
 3.  Запустите сервер:
